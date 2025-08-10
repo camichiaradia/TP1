@@ -21,7 +21,6 @@
     z-index: 1000;
     box-shadow: 0 4px 10px #0000001a;
     background-color: #fff;
-    align-items: flex-start;
     max-height: 88px;
     max-width: 100%;
 }
