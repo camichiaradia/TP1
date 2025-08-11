@@ -11,10 +11,6 @@
 /* RESPONSIVE Mobile */
 
 /* ---------- INICIA ESTILOS DEL HEADER ---------- */
-    body{
-        border: 1px solid red;
-    }
-
     .contenedor_header{
         display: flex;
         position: sticky;
@@ -360,10 +356,6 @@
         align-items: center;
         flex-direction: column;
         background-color: #f4f5ff;
-    }
-
-    .contenedor_padre_footer{
-        width: 400px;
     }
 
     .contenedor_footer{
