@@ -11,7 +11,10 @@
 /* RESPONSIVE Mobile */
 
 /* ---------- INICIA ESTILOS DEL HEADER ---------- */
-
+    body{
+        border: 1px solid red;
+    }
+    
     .contenedor_header{
         display: flex;
         position: sticky;
